@@ -1,0 +1,14 @@
+{
+  "name": "july4_assignment_3",
+  "version": "1.0.0",
+  "description": "Welcome to Macy – a fun and interactive AI-powered coding assistant built to help beginners learn programming step by step. This pretend open-source project combines conversational AI with practical code walkthroughs for HTML, CSS, JavaScript, and Python.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node -e \"console.log('No tests specified')\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
